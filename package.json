@@ -1,0 +1,16 @@
+{
+  "name": "rush-td",
+  "version": "1.0.0",
+  "description": "Rush-TD WhatsApp Bot Base",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "pino": "^8.19.0",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "author": "Rush-TD",
+  "license": "ISC"
+}
